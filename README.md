@@ -1,1 +1,1 @@
-# Chessboard-calibration
+# Camera-calibration
